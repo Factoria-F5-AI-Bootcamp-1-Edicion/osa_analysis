@@ -1,4 +1,6 @@
-# Análisis de Precios de Compra y Venta de Productos del supermercado La Osa ![imagen](https://user-images.githubusercontent.com/110174766/223457666-46088b39-76ce-4b7f-89a6-98bae834fe07.png)
+# Análisis de Precios de Compra y Venta de Productos del supermercado La Osa 
+
+![imagen](https://user-images.githubusercontent.com/110174766/223457666-46088b39-76ce-4b7f-89a6-98bae834fe07.png)
 
 [Anghi Sanchez](https://github.com/AnghiSanchez)
 
