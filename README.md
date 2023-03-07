@@ -2,7 +2,7 @@
 
 ![imagen](https://user-images.githubusercontent.com/110174766/223457666-46088b39-76ce-4b7f-89a6-98bae834fe07.png)
 
-Desarrollado por: [Anghi Sanchez](https://github.com/AnghiSanchez), [Stephany Valderrama](https://github.com/stph89) , [Wenya Li](https://github.com/wenlla) , [Vaneza Florez](https://github.com/vanezafg) , [Jonnathan](https://github.com/JonDScode)y [Silvia Chen](https://github.com/vanezafg)
+Desarrollado por: [Anghi Sanchez](https://github.com/AnghiSanchez), [Stephany Valderrama](https://github.com/stph89) , [Wenya Li](https://github.com/wenlla) , [Vaneza Florez](https://github.com/vanezafg) , [Jonnathan](https://github.com/JonDScode) y [Silvia Chen](https://github.com/vanezafg)
 
 
 
