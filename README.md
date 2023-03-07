@@ -12,6 +12,7 @@
 
 
 [Silvia Chen](https://github.com/vanezafg)
+![imagen](https://user-images.githubusercontent.com/110174766/223457666-46088b39-76ce-4b7f-89a6-98bae834fe07.png)
 
 
 
